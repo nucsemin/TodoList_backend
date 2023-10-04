@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server -w db/db.json -p 3003"
+    "start": "json-server -w db/db.json -p 3003"
   },
   "keywords": [],
   "author": "",

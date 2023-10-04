@@ -6,4 +6,4 @@ COPY . .
 
 RUN npm ci
 EXPOSE 3003
-CMD ["npm", "server"]
+CMD ["npm", "start"]
